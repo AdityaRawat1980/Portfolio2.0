@@ -1,0 +1,10 @@
+#about h1 {
+  font-size: 3rem;
+  color: #ffffff;
+  text-align: center;
+}
+
+#about p {
+  font-size: 1.1rem;
+  line-height: 1.7;
+}

@@ -1,0 +1,19 @@
+#home {
+  text-align: center;
+  padding-top: 100px;
+  width: 100%;
+  background: #090979;
+  background: radial-gradient(circle,#ffffff 0%, #644796 100%);
+  margin-top: 20px;
+  border-radius: 25px;
+}
+
+#home h1 {
+  font-size: 3rem;
+  color: #222;
+}
+
+#home p {
+  font-size: 1.3rem;
+  color: #555;
+}
