@@ -6,11 +6,11 @@ import Projects from './pages/Projects';
 import Skills from './pages/Skills';
 import Contact from './pages/Contact';
 import Footer from './components/Footer';
-import './styles/App.css';
 import Achievements from './pages/Achievements';
-function App() {
-  return (
-    <>
+
+const App = ()=>{
+    return (
+<>
       <Navbar />
       <Home />
       <About />
@@ -20,7 +20,6 @@ function App() {
       <Contact />
       <Footer />
     </>
-  );
+  )
 }
-
-export default App;
+export default App
